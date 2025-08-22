@@ -1,2 +1,2 @@
-# Pangenome_cotton
+# Pangenome
 Pangenome analysis for the Gossypium barbadense
